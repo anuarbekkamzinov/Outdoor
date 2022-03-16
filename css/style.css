@@ -373,3 +373,259 @@ padding-bottom: 100px;
   line-height: 21px;
   color: #575445;
 }
+
+.section--surfing {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding: 612px 40px 40px;
+  background-image: url(../images/IMAGE.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.surfing__wrapper {
+  padding: 15px 0;
+  width: 645px;
+  
+  border-radius: 16px;
+}
+
+.wrap--surfing {
+  background-position:20% 30%;
+  padding-left: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  color: #FFFFFF;
+}
+
+.wrap--surfing:hover {
+  color: #E6B939;
+  cursor: pointer;
+}
+
+.wrap--first_Aid_Kit {
+  background-image: url(../images/icon/basket.png);
+  background-repeat: no-repeat;
+ 
+  
+  
+}
+
+.wrap--banger_Bottle {
+
+}
+
+.wrap--brian_Schultz {
+  background-image: url(../images/icon/phone.png);
+  background-repeat: no-repeat;
+}
+
+.wrap--leah_Stoff {
+  background-image: url(../images/icon/user.png);
+  background-repeat: no-repeat;
+}
+
+.wrap--catalina_California {
+  background-image: url(../images/icon/teleg.png);
+  background-repeat: no-repeat;
+  background-position: 15% 30%;
+}
+
+
+.section--surfing--green {
+  text-align: center;
+  padding: 100px 0;
+  background:#375C58;
+  background-size: cover;
+  background-image: url(../images/uzor.png);
+  background-repeat: no-repeat;
+}
+
+.surfing--green__text {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #FAFAFC;
+  margin: 0;
+}
+
+.section--surfing__check {
+  font-size: 36px;
+  padding-bottom: 10px;
+}
+
+.surfing--green__text__p {
+  padding-top: 7px;
+  width: 538px;
+  margin: auto;
+  color: #FAFAFC;;
+}
+
+.btnVisit {
+  padding: 11px 18px;
+  background: #FFFFFF;
+  border-radius: 6px;
+}
+
+
+.section--navigating {
+  padding: 100px 0 72px 0;
+}
+.slogan__navigating {
+
+}
+
+.text__navigating {
+  max-width: 538px;
+}
+
+.navigating__inner {
+  max-width: 568px;
+}
+
+.section--navigating__content {
+display: flex;
+justify-content: space-between;
+
+}
+
+.extrime__img {
+  
+}
+
+.navigating--wrap__text {
+  max-width: 465px;
+}
+
+.wrapper__user {
+  max-width: 568px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.wrap--user {
+display: flex;
+align-items: center;
+padding-bottom: 50px;
+}
+
+.img__user {
+  width: 50px;
+  height: 50px;
+}
+       
+.user {
+  padding-left: 12px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 18px;
+  color: #575445;
+}
+
+.span__user {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 15px;
+  color: #E6B939;
+}
+
+.user__date {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 18px;
+  color: #6F7278;
+}
+
+.gazeta__img {
+  opacity: 0.4;
+}
+
+.footer {
+  padding: 100px 0;
+  background: #575445;
+  border-radius: 0px;
+}
+
+.footer--logo {
+  text-align: center;
+  padding-bottom: 75px;
+}
+
+.pages {
+  text-transform: uppercase;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  color: #E6B939;
+}
+
+.pages__list {
+  display: block;
+  padding-bottom: 10px;
+  list-style-type: none;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #FFFFFF;
+}
+
+.pages__text {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #FAFAFC;
+}
+
+.footer__wrapper {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.footer__form {
+  max-width: 458px;
+}
+
+.footer__btn {
+  position: absolute;
+  
+}
+
+.footer__input {
+  position: relative;
+  
+  padding: 16px 0 17px 21px;
+  background: #F9FAFB;
+  border: 1px solid #E5E7EB;
+  box-sizing: border-box;
+  border-radius: 8px;
+  max-width: 458px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #575445;
+}
